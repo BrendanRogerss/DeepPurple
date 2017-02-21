@@ -1,0 +1,3 @@
+class King: public Piece{
+	
+}
