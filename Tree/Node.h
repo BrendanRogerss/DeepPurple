@@ -6,4 +6,4 @@ public:
 	std::pair<int, int> score;
 private:
 
-}
+};
