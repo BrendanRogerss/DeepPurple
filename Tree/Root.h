@@ -1,9 +1,9 @@
-class Root{
+#include "Node.h"
+class Root : public Node{
 
 private:
-	GameState* gameState;
-	std::vector<Node> children;
+
 	
 public:
 
-}
+};
